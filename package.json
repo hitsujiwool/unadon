@@ -1,0 +1,26 @@
+{
+  "name": "unadon",
+  "version": "0.0.1",
+  "description": "simple stack for undo/redo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hitsujiwool/unadon"
+  },
+  "keywords": [
+    "undo",
+    "redo"
+  ],
+  "author": "Ryo Murayama <utatanenohibi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hitsujiwool/unadon/issues"
+  },
+  "homepage": "https://github.com/hitsujiwool/unadon",
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
